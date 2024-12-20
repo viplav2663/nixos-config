@@ -1,0 +1,27 @@
+2024/11/12-14:09:36.132 8addd Reusing MANIFEST /home/vip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/12-14:09:36.132 8addd Recovering log #3
+2024/11/12-14:09:36.137 8addd Reusing old log /home/vip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000003.log 
+2024/11/12-14:10:41.306 8addd Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-14:10:41.318 8addc Level-0 table #5: started
+2024/11/12-14:10:41.336 8addc Level-0 table #5: 117474 bytes OK
+2024/11/12-14:10:41.341 8addc Delete type=0 #3
+2024/11/12-14:10:41.346 8addc Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-14:14:13.000 8ade8 Level-0 table #7: started
+2024/11/12-14:14:13.015 8ade8 Level-0 table #7: 500646 bytes OK
+2024/11/12-14:14:13.017 8ade8 Delete type=0 #4
+2024/11/12-14:14:13.018 8addb Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-14:14:23.957 8addc Compacting 1@1 + 1@2 files
+2024/11/12-14:14:23.980 8addc Generated table #8@1: 198 keys, 4071 bytes
+2024/11/12-14:14:23.980 8addc Compacted 1@1 + 1@2 files => 4071 bytes
+2024/11/12-14:14:23.982 8addc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/12-14:14:23.982 8addc Delete type=2 #5
+2024/11/12-14:14:23.983 8addc Delete type=2 #7
+2024/11/12-14:29:55.491 8addc Level-0 table #10: started
+2024/11/12-14:29:55.556 8addc Level-0 table #10: 1736141 bytes OK
+2024/11/12-14:29:55.559 8addc Delete type=0 #6
+2024/11/12-14:30:02.178 8addc Compacting 1@1 + 1@2 files
+2024/11/12-14:30:02.237 8addc Generated table #11@1: 195 keys, 3851 bytes
+2024/11/12-14:30:02.237 8addc Compacted 1@1 + 1@2 files => 3851 bytes
+2024/11/12-14:30:02.240 8addc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/12-14:30:02.241 8addc Delete type=2 #10
+2024/11/12-14:30:02.241 8addc Delete type=2 #8

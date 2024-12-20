@@ -1,0 +1,6 @@
+2024-12-05 21:26:22.926 [info] update#setState idle
+2024-12-05 21:26:24.695 [error] vscode-file: Refused to load resource /nix/store/p2dzh2i66japiiyy7fv9xn21ihldd2xs-vscode-1.92.0/lib/vscode/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/nix/store/p2dzh2i66japiiyy7fv9xn21ihldd2xs-vscode-1.92.0/lib/vscode/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-12-05 21:26:52.735 [info] update#setState checking for updates
+2024-12-05 21:26:52.760 [info] update#setState available for download
+2024-12-05 21:28:14.541 [info] Extension host with pid 277577 exited with code: 0, signal: unknown.
+2024-12-05 21:28:14.566 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown

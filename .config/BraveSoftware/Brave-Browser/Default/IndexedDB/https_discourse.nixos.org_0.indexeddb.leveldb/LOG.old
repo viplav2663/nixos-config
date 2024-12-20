@@ -1,0 +1,7 @@
+2024/11/30-20:06:49.447 400be Reusing MANIFEST /home/vip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.nixos.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/30-20:06:49.450 400be Recovering log #3
+2024/11/30-20:06:49.509 400be Reusing old log /home/vip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.nixos.org_0.indexeddb.leveldb/000003.log 
+2024/11/30-20:37:34.000 400bf Level-0 table #5: started
+2024/11/30-20:37:34.036 400bf Level-0 table #5: 612135 bytes OK
+2024/11/30-20:37:34.041 400bf Delete type=0 #3
+2024/11/30-20:37:34.049 400bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

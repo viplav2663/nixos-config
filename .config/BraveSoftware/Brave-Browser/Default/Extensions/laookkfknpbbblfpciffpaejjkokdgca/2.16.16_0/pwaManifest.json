@@ -1,0 +1,46 @@
+{
+    "name": "Momentum",
+    "short_name": "Momentum",
+    "description": "Your personal dashboard to help you get focused, stay organized, and keep motivated to achieve your goals.",
+    "display": "standalone",
+    "start_url": "./index.html",
+    "background_color": "#119aa2",
+    "theme_color": "#119aa2",
+    "icons": [
+        {
+            "src": "img/app/pwa/mac-icon-512@2x.png",
+            "sizes": "1024x1024",
+            "purpose": "any"
+        },
+        {
+            "src": "img/app/pwa/mac-icon-512.png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "img/app/pwa/maskable-icon-512.png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        },
+        {
+            "src": "img/app/pwa/maskable-icon-192.png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "img/app/pwa/screenshot-wide.jpeg",
+            "sizes": "1200x900",
+            "form_factor": "wide",
+            "label": "Wide dashboard screenshot"
+        },
+        {
+            "src": "img/app/pwa/screenshow-narrow.jpeg",
+            "sizes": "447x720",
+            "form_factor": "narrow",
+            "label": "Narrow dashboard screenshot"
+        }
+    ],
+    "version": "2.16.16"
+}

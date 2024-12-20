@@ -1,0 +1,1 @@
+import{u as s}from"./ViewState-_YxhE_TX.js";const t=s("tasks",{views:{lists:{defaultView:!0,order:1}}});export{t as u};

@@ -1,0 +1,5 @@
+2024-11-10 19:49:19.531 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/vip/.dotfiles/home.nix","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-11-10 19:49:20.264 [info] Started local extension host with pid 213664.
+2024-11-10 19:49:20.657 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vip/.vscode/extensions
+2024-11-10 19:49:21.356 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vip/.vscode/extensions
+2024-11-10 19:49:24.222 [info] [perf] Render performance baseline is 111ms

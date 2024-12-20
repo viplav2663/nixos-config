@@ -1,0 +1,7 @@
+[Added Associations]
+image/jpeg=imv-dir.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+
+[Default Applications]
+image/jpeg=imv-dir.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop

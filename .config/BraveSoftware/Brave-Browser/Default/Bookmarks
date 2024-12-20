@@ -1,0 +1,47 @@
+{
+   "checksum": "3c0fe60895438ad66bbc9400b68b2a21",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13378412787077143",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13378413722184370",
+            "date_last_used": "13378912976372105",
+            "guid": "3fa1f695-cf13-4401-9c2f-05d868bcc8de",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gruvbox wallpapers",
+            "type": "url",
+            "url": "https://gruvbox-wallpapers.pages.dev/"
+         } ],
+         "date_added": "13378412787077147",
+         "date_last_used": "0",
+         "date_modified": "13378413722184370",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378412787077565",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

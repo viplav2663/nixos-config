@@ -1,0 +1,36 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/vip/Downloads/64-in-1 (J) [p1].zip#64-in-1 (J) [p1].nes",
+      "label": "",
+      "core_path": "/nix/store/r421spz1sspqhd69qqdmx3j2blw1sy4d-libretro-fceumm-unstable-2024-09-23/lib/retroarch/cores/fceumm_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/vip/Downloads/1200-in-1 (J) [p1].zip#1200-in-1 (J) [p1].nes",
+      "label": "",
+      "core_path": "/nix/store/r421spz1sspqhd69qqdmx3j2blw1sy4d-libretro-fceumm-unstable-2024-09-23/lib/retroarch/cores/fceumm_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/vip/Downloads/Super Mario Bros. 3.zip#Super Mario Bros. 3 (USA) (Rev 1).nes",
+      "label": "",
+      "core_path": "/nix/store/r421spz1sspqhd69qqdmx3j2blw1sy4d-libretro-fceumm-unstable-2024-09-23/lib/retroarch/cores/fceumm_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+2024/12/05-19:48:08.204 2f66f Creating DB /home/vip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb since it was missing.
+2024/12/05-19:48:08.208 2f66f Reusing MANIFEST /home/vip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/05-19:48:08.336 2f671 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/05-19:53:25.410 2f66f Level-0 table #5: started
+2024/12/05-19:53:25.413 2f66f Level-0 table #5: 9494 bytes OK
+2024/12/05-19:53:25.415 2f66f Delete type=0 #3
+2024/12/05-19:53:25.416 2f66f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/05-19:53:28.832 2f67e Level-0 table #7: started
+2024/12/05-19:53:28.834 2f67e Level-0 table #7: 7329 bytes OK
+2024/12/05-19:53:28.838 2f67e Delete type=0 #4
+2024/12/05-19:53:28.839 2f670 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/05-19:53:47.280 2f670 Compacting 1@1 + 1@2 files
+2024/12/05-19:53:47.293 2f670 Generated table #8@1: 44 keys, 3652 bytes
+2024/12/05-19:53:47.293 2f670 Compacted 1@1 + 1@2 files => 3652 bytes
+2024/12/05-19:53:47.296 2f670 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/05-19:53:47.297 2f670 Delete type=2 #5
+2024/12/05-19:53:47.297 2f670 Delete type=2 #7

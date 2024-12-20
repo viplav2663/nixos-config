@@ -1,0 +1,1 @@
+import{e as a}from"./localStorage-4iHdj-SC.js";const o=()=>a.apiUrl;export{o as default};
